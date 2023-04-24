@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/teamA/test/absl_ubuntu/all_ws/oriLimit_speed_ws/src/Reinforment_Implementation-on-a-Quadruped/quadruped/src/model/model.ckpt"
+all_model_checkpoint_paths: "/home/teamA/test/absl_ubuntu/all_ws/oriLimit_speed_ws/src/Reinforment_Implementation-on-a-Quadruped/quadruped/src/model/model.ckpt"
